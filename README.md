@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **server development and 3d printing**
 
-- 👨‍💻 All of my projects are available at [rishikhan.dev/projects](rishikhan.dev/projects)
+- 👨‍💻 All of my projects are available at [my portfolio website projects' page](https://rishikhan.dev/projects)
 
-- 📝 I regularly write articles on [rishikhan.dev/blog](rishikhan.dev/blog)
+- 📝 I regularly write articles on [my blog](https://rishikhan.dev/blog)
 
 - 💬 Ask me about **3D printing, electronics, web development, wind turbines, arcade machines, nuclear fusion, space stuff**
 
